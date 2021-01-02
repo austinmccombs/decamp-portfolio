@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "portfolio",
+=======
+  "name": "DevcampPortfolio",
+>>>>>>> 12664c85ac7507a63722e69130e7e6fa15402e04
   "private": true,
   "dependencies": {}
 }

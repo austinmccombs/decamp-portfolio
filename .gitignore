@@ -7,16 +7,20 @@
 # Ignore bundler config.
 /.bundle
 
+<<<<<<< HEAD
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
 
+=======
+>>>>>>> 12664c85ac7507a63722e69130e7e6fa15402e04
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
 !/log/.keep
 !/tmp/.keep
 
+<<<<<<< HEAD
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
@@ -29,3 +33,12 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+=======
+/node_modules
+/yarn-error.log
+
+.byebug_history
+
+# Don't tell my secrets
+/config/secrets.yml
+>>>>>>> 12664c85ac7507a63722e69130e7e6fa15402e04
